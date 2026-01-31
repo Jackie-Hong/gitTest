@@ -1,0 +1,3 @@
+"def export_data(data):
+    with open('data.csv', 'w') as f:
+        f.write(str(data))" > data_export.py
